@@ -1,14 +1,13 @@
 {
-  "main.css": "/mjpoint/static/css/main.7221bbd7.chunk.css",
-  "main.js": "/mjpoint/static/js/main.e5f88f75.chunk.js",
-  "main.js.map": "/mjpoint/static/js/main.e5f88f75.chunk.js.map",
+  "main.css": "/mjpoint/static/css/main.494e5b55.chunk.css",
+  "main.js": "/mjpoint/static/js/main.279d5432.chunk.js",
+  "main.js.map": "/mjpoint/static/js/main.279d5432.chunk.js.map",
   "runtime~main.js": "/mjpoint/static/js/runtime~main.a34d1e85.js",
   "runtime~main.js.map": "/mjpoint/static/js/runtime~main.a34d1e85.js.map",
-  "static/js/2.c6163796.chunk.js": "/mjpoint/static/js/2.c6163796.chunk.js",
-  "static/js/2.c6163796.chunk.js.map": "/mjpoint/static/js/2.c6163796.chunk.js.map",
+  "static/js/2.b10d98e1.chunk.js": "/mjpoint/static/js/2.b10d98e1.chunk.js",
+  "static/js/2.b10d98e1.chunk.js.map": "/mjpoint/static/js/2.b10d98e1.chunk.js.map",
   "index.html": "/mjpoint/index.html",
-  "precache-manifest.9ffbd2c6b25f0207b6c05d1ba9afd4d3.js": "/mjpoint/precache-manifest.9ffbd2c6b25f0207b6c05d1ba9afd4d3.js",
+  "precache-manifest.d5e06639d1c014aebdfc9b204d900414.js": "/mjpoint/precache-manifest.d5e06639d1c014aebdfc9b204d900414.js",
   "service-worker.js": "/mjpoint/service-worker.js",
-  "static/css/main.7221bbd7.chunk.css.map": "/mjpoint/static/css/main.7221bbd7.chunk.css.map",
-  "static/media/logo.svg": "/mjpoint/static/media/logo.5d5d9eef.svg"
+  "static/css/main.494e5b55.chunk.css.map": "/mjpoint/static/css/main.494e5b55.chunk.css.map"
 }
